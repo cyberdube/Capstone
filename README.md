@@ -1,11 +1,13 @@
+<!-- which  -->
 # Vehicle Service Management System
-
-## Overview
+ 
+##  Overview
 
 This project is an end-to-end multi-tiered web-based solution for managing vehicle services. It is designed for Prime Automobiles Pvt. Ltd., a car sales and service company based in Pune, to track service history of sold vehicles and initiate scheduled servicing with customers. The system includes functionalities for both Admin and Service Advisor roles.
 
-## Technologies Used
 
+
+## Technologies Used
 ### Back-End
 - **Programming Language:** C#
 - **Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework
@@ -20,6 +22,7 @@ This project is an end-to-end multi-tiered web-based solution for managing vehic
 - **IDE:** Visual Studio Community Edition
 - **Version Control:** GIT
 - **Package Manager:** Node.js/NPM
+
 
 
 ## Features
@@ -97,6 +100,35 @@ This project is an end-to-end multi-tiered web-based solution for managing vehic
 6. **Create a new Pull Request**
 
 
----
 
-For any further questions or issues, please open an issue in the GitHub repository.
+# PREVIEW
+## Frontend
+
+
+<img src ="10.png" width ="700" height = "400">
+
+<img src ="5.png" width ="700" height = "400">
+
+<img src ="6.png" width ="700" height = "400">
+
+<img src ="7.png" width ="700" height = "400">
+<img src ="8.png" width ="700" height = "400">
+
+<img src ="9.png" width ="700" height = "400">
+
+<img src ="1.png" width ="700" height = "400">
+
+
+<img src ="1.png" width ="700" height = "400">
+
+
+## Backend
+
+<img src ="2.png" width ="700" height = "400">
+<img src ="3.png" width ="700" height = "400">
+<img src ="image.jpg" width ="700" height = "400">
+
+## Database
+
+<img src ="4.png" width ="700" height = "400">
+ 
