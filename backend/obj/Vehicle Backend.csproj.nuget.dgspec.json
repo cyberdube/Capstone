@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\Vehicle Backend\\Vehicle Backend.csproj": {}
+    "C:\\Users\\DELL\\Downloads\\Vehicle-Management-System-main\\Vehicle-Management-System-main\\backend\\Vehicle Backend.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\Vehicle Backend\\Vehicle Backend.csproj": {
+    "C:\\Users\\DELL\\Downloads\\Vehicle-Management-System-main\\Vehicle-Management-System-main\\backend\\Vehicle Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\Vehicle Backend\\Vehicle Backend.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Downloads\\Vehicle-Management-System-main\\Vehicle-Management-System-main\\backend\\Vehicle Backend.csproj",
         "projectName": "Vehicle Backend",
-        "projectPath": "D:\\Visual Studio Projects\\Vehicle Backend\\Vehicle Backend.csproj",
-        "packagesPath": "C:\\Users\\Sanyam\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects\\Vehicle Backend\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Downloads\\Vehicle-Management-System-main\\Vehicle-Management-System-main\\backend\\Vehicle Backend.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Downloads\\Vehicle-Management-System-main\\Vehicle-Management-System-main\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sanyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
