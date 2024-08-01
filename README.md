@@ -126,7 +126,7 @@ This project is an end-to-end multi-tiered web-based solution for managing vehic
 
 <img src ="2.png" width ="700" height = "400">
 <img src ="3.png" width ="700" height = "400">
-<img src ="image.jpg" width ="700" height = "400">
+
 
 ## Database
 
